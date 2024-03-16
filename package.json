@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module",
+  "name": "curso-de-asincronismo-con-javascript",
+  "description": "• 🧵 Thread: Thread para Javascript permite realizar programación multihilos en este entorno. En realidad,\r simula la creación y ejecución de hilos, pero para el desarrollador es lo mismo. \r Ésto simplifica muchísimo la creación de aplicaciones Javascript.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
